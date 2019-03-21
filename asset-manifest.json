@@ -1,13 +1,13 @@
 {
-  "main.css": "/cobaari/static/css/main.c1bc7cad.chunk.css",
-  "main.js": "/cobaari/static/js/main.e39b8ad4.chunk.js",
-  "main.js.map": "/cobaari/static/js/main.e39b8ad4.chunk.js.map",
-  "runtime~main.js": "/cobaari/static/js/runtime~main.1dd519ce.js",
-  "runtime~main.js.map": "/cobaari/static/js/runtime~main.1dd519ce.js.map",
-  "static/js/2.c88c70e5.chunk.js": "/cobaari/static/js/2.c88c70e5.chunk.js",
-  "static/js/2.c88c70e5.chunk.js.map": "/cobaari/static/js/2.c88c70e5.chunk.js.map",
+  "main.css": "/cobaari/static/css/main.522482cb.chunk.css",
+  "main.js": "/cobaari/static/js/main.006dad53.chunk.js",
+  "main.js.map": "/cobaari/static/js/main.006dad53.chunk.js.map",
+  "runtime~main.js": "/cobaari/static/js/runtime~main.c2217980.js",
+  "runtime~main.js.map": "/cobaari/static/js/runtime~main.c2217980.js.map",
+  "static/js/2.cfbda0e9.chunk.js": "/cobaari/static/js/2.cfbda0e9.chunk.js",
+  "static/js/2.cfbda0e9.chunk.js.map": "/cobaari/static/js/2.cfbda0e9.chunk.js.map",
   "index.html": "/cobaari/index.html",
-  "precache-manifest.392426fbb18437eb51ee76282f87af03.js": "/cobaari/precache-manifest.392426fbb18437eb51ee76282f87af03.js",
+  "precache-manifest.88e42b56392f1cea06af2141593e87fa.js": "/cobaari/precache-manifest.88e42b56392f1cea06af2141593e87fa.js",
   "service-worker.js": "/cobaari/service-worker.js",
-  "static/css/main.c1bc7cad.chunk.css.map": "/cobaari/static/css/main.c1bc7cad.chunk.css.map"
+  "static/css/main.522482cb.chunk.css.map": "/cobaari/static/css/main.522482cb.chunk.css.map"
 }
