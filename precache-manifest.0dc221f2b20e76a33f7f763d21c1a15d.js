@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
     "revision": "c221798069590f30ae98",
-    "url": "/cobaari/static/js/runtime~main.c2217980.js"
+    "url": "/cobaari/static/js/runtime~main.f70dd2a2.js"
   },
   {
     "revision": "006dad53e1995ce9708e",
-    "url": "/cobaari/static/js/main.006dad53.chunk.js"
+    "url": "/cobaari/static/js/main.d101514b.chunk.js"
   },
   {
-    "revision": "cfbda0e9061432ca6501",
-    "url": "/cobaari/static/js/2.cfbda0e9.chunk.js"
+    "revision": "3c688a83c6a96b1bd515",
+    "url": "/cobaari/static/js/2.f885ce20.chunk.js"
   },
   {
     "revision": "006dad53e1995ce9708e",
     "url": "/cobaari/static/css/main.522482cb.chunk.css"
   },
   {
-    "revision": "e123b3e40a1dafe936d716b040afd3e3",
+    "revision": "16a7017882e0c565b8783aff229ff778",
     "url": "/cobaari/index.html"
   }
 ];
